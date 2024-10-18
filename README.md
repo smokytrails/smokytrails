@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshita Nagasubramanian
 - 👀 I’m interested in all things data!
 - 🌱 I’m currently learning to create a chatbot
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Natural Language Processing
 - 📫 Reach out to me through LinkedIn @ www.linkedin.com/in/harshita-nagasubramanian/
 - 😄 Pronouns: she/her
 
