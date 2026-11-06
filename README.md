@@ -17,31 +17,41 @@ Through my experience at Sun Life and the Ontario Ministry of Municipal Affairs 
 
 ### 🚀 Featured Projects
 
-**City4Students | Student Information Platform**
+- **City4Students | Student Information Platform**
 
-Developing a student-focused information platform for Kitchener-Waterloo using Python, FastAPI, Next.js, and Supabase. Integrating automated data collection, database pipelines, and hybrid retrieval to help students discover relevant local events and resources.
+  Developing a student-focused information platform for Kitchener-Waterloo using Python, FastAPI, Next.js, and Supabase. Integrating automated data collection, database pipelines, and hybrid retrieval to help students discover relevant local events and resources.
 
-**What Makes the Best Wine? | Predictive Analytics**
+- **Employment in Canada | Exploratory Data Analysis & Visualization**
 
-Explored the relationship between chemical properties and wine quality using R, principal component analysis, multiple linear regression, and feature engineering to identify meaningful predictors of wine quality.
+  Explored Canadian employment statistics through exploratory data analysis and visualizations, examining workforce patterns and trends across geographical regions and time periods.
 
-**Voices of Walmart | Employee Sentiment Analysis**
+- **What Makes the Best Wine? | Predictive Analytics**
 
-Analyzed employee reviews across 13 years using classification, statistical techniques, and exploratory data analysis to investigate trends in employee satisfaction.
+  Explored the relationship between chemical properties and wine quality using R, principal component analysis, multiple linear regression, and feature engineering to identify meaningful predictors of wine quality.
 
-**Decoding Feelings via Emojis | Natural Language Processing**
+- **Voices of Walmart | Employee Sentiment Analysis**
 
-Applied Python-based NLP and sentiment analysis to examine relationships between emojis and emotional expression in social media data.
+  Analyzed employee reviews across 13 years using classification, statistical techniques, and exploratory data analysis to investigate trends in employee satisfaction.
+
+- **Decoding Feelings via Emojis | Natural Language Processing**
+
+  Applied Python-based NLP and sentiment analysis to examine relationships between emojis and emotional expression in social media data.
+
+- **Maze Generator | Interactive Web Application**
+
+  Built a fun, interactive maze game using Flask and JavaScript, allowing users to customize maze dimensions, navigate generated mazes directly in their browser, and download their creations as PNG images.
 
 ### 💼 Professional Experience
 
-**Sun Life Financial | Digital Transformation & Data Analytics**
+- **Sun Life Financial | Digital Transformation & Data Analytics**
 
-Developed executive-facing dashboards, integrated enterprise data sources, and automated reporting workflows to improve visibility, consistency, and decision-making.
+  Worked across two internships developing data-driven solutions to improve enterprise reporting, portfolio visibility, and operational efficiency. Built interactive Power BI dashboards for executive stakeholders, including the CIO, supporting oversight of $250M+ in strategic initiatives. Developed SQL and OData integrations to consolidate enterprise data from Planview, and used Python to automate reporting workflows, reducing repetitive manual work by 35+ hours annually.
 
-**Ontario Ministry of Municipal Affairs and Housing | Program Analytics**
+  Beyond development, collaborated with cross-functional teams to gather requirements, improve data consistency, and translate complex business needs into scalable reporting and automation solutions.
 
-Built reporting and automation solutions supporting provincial housing programs, improving access to operational and financial insights while reducing manual reporting effort.
+- **Ontario Ministry of Municipal Affairs and Housing | Program Analytics**
+
+  Built reporting and automation solutions supporting provincial housing programs, improving access to operational and financial insights while reducing manual reporting effort.
 
 ### 🎓 Education
 
